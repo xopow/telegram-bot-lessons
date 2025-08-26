@@ -1,2 +1,4 @@
 asyncpg
 aiogram
+aiohttp>=3.12.14 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
